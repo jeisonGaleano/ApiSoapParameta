@@ -1,2 +1,4 @@
-com\parametasoap\parametasoap\controllers\EmployeeController.class
-com\parametasoap\parametasoap\models\Employee.class
+com\parametasoap\parametasoap\controller\EmployeeController.class
+com\parametasoap\parametasoap\model\EmployeeSoap.class
+com\parametasoap\parametasoap\service\EmployeeService.class
+com\parametasoap\parametasoap\configuration\ConnectionDataBase.class

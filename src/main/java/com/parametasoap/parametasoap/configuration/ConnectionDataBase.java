@@ -22,7 +22,7 @@ public class ConnectionDataBase {
 
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            con = (java.sql.Connection) DriverManager.getConnection("jdbc:mysql://localhost:3306/bdsoap?useSSL=false&autoReconnect=true&failOverReadOnly=false", "root", "root123");
+            con = (java.sql.Connection) DriverManager.getConnection("jdbc:mysql://localhost:3306/parametabd?useSSL=false&autoReconnect=true&failOverReadOnly=false", "admin", "admin");
             return con;
         } catch (ClassNotFoundException ex) {
             Logger.getLogger(java.sql.Connection.class.getName()).log(Level.SEVERE, null, ex);

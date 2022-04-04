@@ -1,6 +1,6 @@
 
 O
 java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8î·«¤ÿ/
-O
-java:S1905"-Remove this unnecessary cast to "Connection".(ÚÝ©¿þÿÿÿÿ8î·«¤ÿ/
+J
+java:S1905"-Remove this unnecessary cast to "Connection".(Æì•‹8î·«¤ÿ/
 U	java:S106%"9Replace this use of System.out or System.err by a logger.(è”Þ³8î·«¤ÿ/
